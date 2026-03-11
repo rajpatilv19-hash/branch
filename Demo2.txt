@@ -1,0 +1,21 @@
+//DevOps
+1.Crerate repository at GitHub
+2.create one text file in your local machine
+3.uplod text file in ypur repository
+4.create one folder in any drive (say d)
+5.go to git bash
+6.go to directory where you have create your folder
+7. go to folder
+8. clone your repository
+9. go to repository
+10. check your file in the repo
+11.make change in file
+12.check status
+13.it will show file in the modified state
+14.modified --> staged (add)
+15.staged --> cimmit ( commit -m "")
+16.push your data to remote (git hub) --> git push origin main
+
+Pratical 2
+
+demonstration of merging of brach and rebasing of branch
